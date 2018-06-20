@@ -1,0 +1,22 @@
+{
+    "ExpiryTime": "2018-05-03 00:00:00",
+    "Homepage_Gift_On": 1,
+    "Homepage_Gift_LimitTime": 43199,
+    "Homepage_Gift_NextShowTime": 86400,
+    "Homepage_Gift_Con": [
+        31
+    ],
+    "HomePage_Gift_IDs_Sort": [
+        31
+    ],
+    "TestA": 15,
+    "TestB": 2,
+    "Max_RespanwTimes": 99,
+    "ShowAD_1_1": 3,
+    "ShowAD_1_2": 6,
+    "ShowAD_1_3": 9,
+    "ShowAD_2_1": 2,
+    "ShowAD_2_2": 5,
+    "ShowAD_2_3": 8,
+    "ShowAD_BoardCount": 11
+}
